@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MartianRobotsScriptlike": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\temporl\\input\" \"C:\\temporl\\output\""
+    }
+  }
+}
